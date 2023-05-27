@@ -19,7 +19,11 @@ left: -1149px;
 top: -741px;
 
 
-   
+ #search{
+    width:200px;
+    height:29px;
+}
+tab  
 }
 button,input {
 background-color:black;
